@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
     dependencies = f.read().splitlines()
     
 setup(
-    name="HKKLLM",
+    name="HKLLM",
     version='0.0.1-alpha',
     author='William Stigall, Hailey Walker',
     author_email="williamastigall@gmail.com, hnwalker@gmail.com",
